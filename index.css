@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    display: flex;
+    padding: 80px;
+    justify-content: center;
+    margin:50px;
+    background-image: url("https://res.cloudinary.com/purnesh/image/upload/f_auto/v1609909992/61609909991324.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    background: #1B244A;
+    color: white;
+    display: flex;
+    font-family: serif;
+    justify-content: space-around;
+    border: 1px solid black;
+    padding: 40px;
+    height: 225px;
+    width: 575px;
+    align-items: center;
+}
+.home{
+    text-align: center;
+    font-size: 33px;
+    margin: 0px 0px 21px 0px;
+}
+.guest{
+    text-align: center;
+    font-size: 33px;
+    margin: 0px 0px 21px 0px;
+}
+#home-score{
+    background-color: black;
+    color: #F94F6D;
+    height: 100px;
+    width: 100px;
+    margin: 0px 0px 26px 0px;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-right: 18px;
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 90px;
+    font-style: normal;
+    text-align: end;
+}
+#guest-score{
+    background-color: black;
+    color: #F94F6D;
+    height: 100px;
+    width: 100px;
+    padding-top: 10px;
+    padding-right: 18px;
+    margin: 0px 0px 26px 0px;
+    border: 1px solid black;    
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 90px;
+    font-style: normal;
+    text-align: end;
+}
+.button{
+    font-family: 'Cursed Timer ULiL';
+    color: #9AABD8;
+    background: transparent;
+    width: 35px;
+    height: 35px;
+    border: 1px solid #9AABD8;
+    border-radius: 4px;
+    margin: 1px;
+    }
