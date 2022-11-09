@@ -2,6 +2,8 @@
 1. Score of two teams.
 2. 6 functioning buttons
 3. Proper display of scores
+<br>
+Visit Site at https://swati-01.github.io/Basket-Ball-Scoreboard/
 
 ## Screenshot of the site:-
 
